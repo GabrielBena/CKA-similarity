@@ -1,0 +1,4 @@
+build 
+history
+*.egg-info
+*.history
